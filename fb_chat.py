@@ -17,6 +17,7 @@ def main():
     if response:
         print("Sended sucessfully")
 
+
 def sendMsg(msg):
     ps = getPass()
     userName = getUserName()
